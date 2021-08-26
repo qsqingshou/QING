@@ -297,10 +297,10 @@
   {
     "name": "Du: CoCoManhua (OhManhua)",
     "pkg": "com.haleydu.du.extension.zh.onemanhua",
-    "apk": "du-zh.onemanhua-v1.2.9.apk",
+    "apk": "du-zh.onemanhua-v1.2.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "sources": [
       {
