@@ -15,12 +15,12 @@
 
 # 应用截图
 - 手机和平板
-  <img src="./screenshot/01.png" width="250">
-  <img src="./screenshot/02.png" width="250">
-  <img src="./screenshot/03.png" width="250">
-  <img src="./screenshot/04.png" width="250">
-  <img src="./screenshot/05.png" width="250">
-  <img src="./screenshot/06.png" width="250">
+<img src="./screenshot/01.png" width="250">
+<img src="./screenshot/02.png" width="250">
+<img src="./screenshot/03.png" width="250">
+<img src="./screenshot/04.png" width="250">
+<img src="./screenshot/05.png" width="250">
+<img src="./screenshot/06.png" width="250">
 
 # 设计思路
 > 软件的设计思路来自国外知名的漫画软件“趣立”
